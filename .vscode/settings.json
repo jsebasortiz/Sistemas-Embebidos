@@ -1,4 +1,5 @@
 {
     "editor.fontFamily": "Cascadia Mono Regular",
-    "editor.cursorStyle": "line"
+    "editor.cursorStyle": "line",
+    "C_Cpp.errorSquiggles": "enabled"
 }
